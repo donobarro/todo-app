@@ -41,7 +41,7 @@ In `todo-app` folder:
 ### Added condition to the Edit form, to make sure that user can not set empty values during Edit.
 ![Condition to ensure values are not empty](./images/edit_dog_if.png)
 
-### Added argument `id` to element `<tr>` + added new column: ID
+### Added attribute `id` to element `<tr>` + added new column: ID
 ![New column ID and new attribute id in tr](./images/new_col_tr.png)
 
 ### Updated the function for ID generation.
